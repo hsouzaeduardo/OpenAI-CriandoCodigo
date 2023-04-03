@@ -7,3 +7,5 @@ Neste vídeo, vamos demonstrar como utilizar o ChatGPT em conjunto com a OpenAI 
 
 Ao final do vídeo, você estará pronto para começar a utilizar o ChatGPT e a OpenAI em seus próprios projetos de programação, aumentando sua produtividade e eficiência. Não perca!
 
+Link para o vídeo: 
+https://youtu.be/A36tlU5LyHw
