@@ -1,4 +1,4 @@
-#Gerando Código com ChatGPT e OpenAI
+# Gerando Código com ChatGPT e OpenAI
 Neste vídeo, vamos explorar como utilizar a tecnologia do ChatGPT e da OpenAI para gerar código automaticamente.
 
 Primeiramente, vamos entender o que é o ChatGPT. Ele é um modelo de linguagem natural, treinado com milhões de exemplos de textos em diversos idiomas, capaz de gerar texto de forma autônoma a partir de uma entrada. Já a OpenAI é uma empresa de tecnologia que desenvolve inteligência artificial avançada, com foco em criar uma IA segura e benéfica para a humanidade.
